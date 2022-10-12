@@ -4,19 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c2a058b-b5f9-4f4d-8c36-238611c7b3de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/automation-UtestLogIn/Main.java" afterDir="false" />
+    <list default="true" id="034af79f-55a0-4291-beb9-5aebcbf993fc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/interactions/TypeArrowDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/AddingYourAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/TellingAboutYourDevices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UTestSinginStep2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UTestSinginStep3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/OpenUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/OpenUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/Singin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/TellingAboutYourself.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UTestSinginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UTestSinginStep1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/challenge/autUtestLogIn/stepdefinitions/LoginUtestStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/choucair/challenge/autUtestLogIn/stepdefinitions/LoginUtestStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/884620aad3ed0a952abc2f8b188634dd741444ddead00cabf56f968716b77ac0.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/884620aad3ed0a952abc2f8b188634dd741444ddead00cabf56f968716b77ac0.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/884620aad3ed0a952abc2f8b188634dd741444ddead00cabf56f968716b77ac0.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/884620aad3ed0a952abc2f8b188634dd741444ddead00cabf56f968716b77ac0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/884620aad3ed0a952abc2f8b188634dd741444ddead00cabf56f968716b77ac0_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/884620aad3ed0a952abc2f8b188634dd741444ddead00cabf56f968716b77ac0_screenshots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-884620aad3ed0a952abc2f8b188634dd741444ddead00cabf56f968716b77ac0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-884620aad3ed0a952abc2f8b188634dd741444ddead00cabf56f968716b77ac0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,29 +33,77 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2Fv1zpaZQs9MXYfySNIflS5xI7l" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Fv2o5h5oFkQNppYCgXR5QTmUfw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="co.com.choucair.challenge.autUtestLogIn.userinterface" />
+      <recent name="co.com.choucair.challenge.autUtestLogIn.tasks" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RunnerTags" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;co.com.choucair.challenge.autUtestLogIn.runners.RunnerTags&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.RunnerTags" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1c2a058b-b5f9-4f4d-8c36-238611c7b3de" name="Changes" comment="" />
-      <created>1665358011989</created>
+      <changelist id="034af79f-55a0-4291-beb9-5aebcbf993fc" name="Changes" comment="" />
+      <created>1665358410892</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1665358011989</updated>
+      <updated>1665358410892</updated>
     </task>
     <servers />
   </component>
