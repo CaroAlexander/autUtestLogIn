@@ -9,7 +9,7 @@ import org.openqa.selenium.interactions.Actions;
 
 public class TypeArrowDown implements Interaction {
 
-    public static TypeArrowDown OnThePage2(){
+    public static TypeArrowDown OnTheStep2(){
         return Tasks.instrumented(TypeArrowDown.class);
     }
 

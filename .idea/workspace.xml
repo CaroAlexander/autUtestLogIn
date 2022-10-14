@@ -5,23 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="034af79f-55a0-4291-beb9-5aebcbf993fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/interactions/TypeArrowDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/AddingYourAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/TellingAboutYourDevices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UTestSinginStep2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UTestSinginStep3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/OpenUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/OpenUp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/Singin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/TellingAboutYourself.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UTestSinginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UTestSinginStep1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/interactions/TypeArrowDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/interactions/TypeArrowDown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/AddingYourAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/AddingYourAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/TellingAboutYourDevices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/TellingAboutYourDevices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/TellingAboutYourself.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/TellingAboutYourself.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UTestSinginStep1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UTestSinginYourself.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UTestSinginStep2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UTestSinginAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UTestSinginStep3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UTestSinginDevices.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/challenge/autUtestLogIn/stepdefinitions/LoginUtestStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/choucair/challenge/autUtestLogIn/stepdefinitions/LoginUtestStepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/884620aad3ed0a952abc2f8b188634dd741444ddead00cabf56f968716b77ac0.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/884620aad3ed0a952abc2f8b188634dd741444ddead00cabf56f968716b77ac0.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/884620aad3ed0a952abc2f8b188634dd741444ddead00cabf56f968716b77ac0.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/884620aad3ed0a952abc2f8b188634dd741444ddead00cabf56f968716b77ac0.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/884620aad3ed0a952abc2f8b188634dd741444ddead00cabf56f968716b77ac0_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/884620aad3ed0a952abc2f8b188634dd741444ddead00cabf56f968716b77ac0_screenshots.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-884620aad3ed0a952abc2f8b188634dd741444ddead00cabf56f968716b77ac0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-884620aad3ed0a952abc2f8b188634dd741444ddead00cabf56f968716b77ac0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

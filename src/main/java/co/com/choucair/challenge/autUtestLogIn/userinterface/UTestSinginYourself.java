@@ -6,7 +6,7 @@ import org.openqa.selenium.By;
 
 //import java.lang.annotation.Target;
 
-public class UTestSinginStep1 extends PageObject {
+public class UTestSinginYourself extends PageObject {
     public static final Target JOIN_TODAY_BUTTON = Target.the("button that shows us the form to Sing in")
             .located(By.xpath("//a[@class='unauthenticated-nav-bar__sign-up']"));
     public static final Target INPUT_FIRST_NAME =Target.the("Where do we write the first user name")
@@ -19,7 +19,7 @@ public class UTestSinginStep1 extends PageObject {
             .located(By.xpath("//option[@label='March']"));
     public static final Target INPUT_BIRTHDAY =Target.the("Where do we write the user birthDay")
             .located(By.xpath("//option[@label='12']"));
-    public static final Target INPUT_BIRTYEAR =Target.the("Where do we write the user birthYear")
+    public static final Target INPUT_BIRTHYEAR =Target.the("Where do we write the user birthYear")
             .located(By.xpath("//option[@label='1996']"));
     public static final Target INPUT_LANGUAGES =Target.the("Where do we write the user  languages")
             .located(By.className("ui-select-search input-xs ng-pristine ng-valid ng-empty ng-touched"));
