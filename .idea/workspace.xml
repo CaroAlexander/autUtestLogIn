@@ -6,14 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="034af79f-55a0-4291-beb9-5aebcbf993fc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/interactions/TypeArrowDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/interactions/TypeArrowDown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/AddingYourAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/AddingYourAddress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/TellingAboutYourDevices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/TellingAboutYourDevices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/TellingAboutYourself.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/TellingAboutYourself.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UTestSinginStep1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UTestSinginYourself.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UTestSinginStep2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UTestSinginAddress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UTestSinginStep3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UTestSinginDevices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/challenge/autUtestLogIn/stepdefinitions/LoginUtestStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/choucair/challenge/autUtestLogIn/stepdefinitions/LoginUtestStepDefinitions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +41,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/IdeaProjects/autUtestLogIn&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
