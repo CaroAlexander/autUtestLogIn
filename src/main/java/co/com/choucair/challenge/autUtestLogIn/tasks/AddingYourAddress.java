@@ -1,7 +1,7 @@
 package co.com.choucair.challenge.autUtestLogIn.tasks;
 
 import co.com.choucair.challenge.autUtestLogIn.interactions.TypeArrowDown;
-import co.com.choucair.challenge.autUtestLogIn.userinterface.UTestSinginAddress;
+import co.com.choucair.challenge.autUtestLogIn.userinterface.UTestSignUpAddress;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.Tasks;
@@ -16,17 +16,20 @@ public class AddingYourAddress implements Task {
 
     @Override
     public <T extends Actor> void performAs(T actor) {
-        actor.attemptsTo(Enter.theValue("Bogota").into(UTestSinginAddress.INPUT_CITY)
+        actor.attemptsTo(Enter.theValue("Bogot").into(UTestSignUpAddress.INPUT_CITY)
         );
 
         try {
-            Thread.sleep(3000);
+            Thread.sleep(2000);
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
 
-        actor.attemptsTo(TypeArrowDown.OnTheStep2(), Enter.theValue(Keys.ENTER).into(UTestSinginAddress.INPUT_CITY),
-                Enter.theValue("111041").into(UTestSinginAddress.INPUT_ZIPCODE),Click.on(UTestSinginAddress.Devices_BUTTON));
+        actor.attemptsTo(
+                TypeArrowDown.OnTheStep2(),
+                Enter.theValue(Keys.ENTER).into(UTestSignUpAddress.INPUT_CITY),
+                Enter.theValue("111041").into(UTestSignUpAddress.INPUT_ZIPCODE),
+                Click.on(UTestSignUpAddress.Devices_BUTTON));
 
     }
 }
