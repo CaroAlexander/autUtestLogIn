@@ -17,7 +17,7 @@ public class TellingAboutYourself implements Task {
         actor.attemptsTo(Click.on(UTestSignUpYourself.JOIN_TODAY_BUTTON),
                 Enter.theValue("Yair Alexander").into(UTestSignUpYourself.INPUT_FIRST_NAME),
                 Enter.theValue("Tobar Caro").into(UTestSignUpYourself.INPUT_LAST_NAME),
-                Enter.theValue("yatobarc@udistrital.edu.co").into(UTestSignUpYourself.INPUT_EMAIL),
+                Enter.theValue("yatobarcaro@gmail.com").into(UTestSignUpYourself.INPUT_EMAIL),
                 Click.on(UTestSignUpYourself.INPUT_BIRTHMONTH),
                 Click.on(UTestSignUpYourself.INPUT_BIRTHDAY),
                 Click.on(UTestSignUpYourself.INPUT_BIRTHYEAR),

@@ -16,11 +16,11 @@ public class AddingYourAddress implements Task {
 
     @Override
     public <T extends Actor> void performAs(T actor) {
-        actor.attemptsTo(Enter.theValue("Bogot").into(UTestSignUpAddress.INPUT_CITY)
+        actor.attemptsTo(Enter.theValue("Bogota").into(UTestSignUpAddress.INPUT_CITY)
         );
 
         try {
-            Thread.sleep(2000);
+            Thread.sleep(3000);
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
