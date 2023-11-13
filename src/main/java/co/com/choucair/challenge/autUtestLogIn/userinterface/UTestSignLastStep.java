@@ -15,8 +15,6 @@ public class UTestSignLastStep extends PageObject {
             .locatedBy("//span[@ng-class=\"{error: userForm.privacySetting.$error.required}\"]");
     public static final Target LADDABTN = Target.the("Where do we write the Password")
             .located(By.id("laddaBtn"));
-    public static final Target SUB_TITLE = Target.the("Subtitle")
-            .locatedBy("//span[@class=\"sub-title\"]");
     public static final Target WELCOME_MESSAGE = Target.the("Welcome message ")
             .locatedBy("//div[@class=\"image-box-header\"]");
 

@@ -10,13 +10,23 @@ import net.serenitybdd.screenplay.actions.Enter;
 import org.openqa.selenium.Keys;
 
 public class AddingYourAddress implements Task {
-    public static AddingYourAddress OnTheStep2(){
-        return Tasks.instrumented(AddingYourAddress.class);
+
+    private final String strCity;
+    private final String strZipCode;
+
+    public AddingYourAddress (String strCity, String strZipCode) {
+        this.strCity = strCity;
+        this.strZipCode = strZipCode;
+
+    }
+
+    public static AddingYourAddress OnTheStep2(String strCity, String strZipCode){
+        return Tasks.instrumented(AddingYourAddress.class, strCity, strZipCode);
     }
 
     @Override
     public <T extends Actor> void performAs(T actor) {
-        actor.attemptsTo(Enter.theValue("Bogota").into(UTestSignUpAddress.INPUT_CITY)
+        actor.attemptsTo(Enter.theValue(strCity).into(UTestSignUpAddress.INPUT_CITY)
         );
 
         try {
@@ -38,7 +48,7 @@ public class AddingYourAddress implements Task {
         actor.attemptsTo(
                 Click.on(UTestSignUpAddress.BOGOTA_CITY),
                 //Enter.theValue(Keys.ENTER).into(UTestSignUpAddress.INPUT_CITY),
-                Enter.theValue("111041").into(UTestSignUpAddress.INPUT_ZIPCODE),
+                Enter.theValue(strZipCode).into(UTestSignUpAddress.INPUT_ZIPCODE),
                 Click.on(UTestSignUpAddress.Devices_BUTTON));
 
     }
