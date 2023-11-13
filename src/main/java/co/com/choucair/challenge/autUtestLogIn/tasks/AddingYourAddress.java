@@ -20,14 +20,24 @@ public class AddingYourAddress implements Task {
         );
 
         try {
-            Thread.sleep(3000);
+            Thread.sleep(1500);
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
 
         actor.attemptsTo(
-                TypeArrowDown.OnTheStep2(),
-                Enter.theValue(Keys.ENTER).into(UTestSignUpAddress.INPUT_CITY),
+                TypeArrowDown.OnTheStep2()
+        );
+
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+
+        actor.attemptsTo(
+                Click.on(UTestSignUpAddress.BOGOTA_CITY),
+                //Enter.theValue(Keys.ENTER).into(UTestSignUpAddress.INPUT_CITY),
                 Enter.theValue("111041").into(UTestSignUpAddress.INPUT_ZIPCODE),
                 Click.on(UTestSignUpAddress.Devices_BUTTON));
 

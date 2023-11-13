@@ -18,6 +18,6 @@ public class UTestSignLastStep extends PageObject {
     public static final Target SUB_TITLE = Target.the("Subtitle")
             .locatedBy("//span[@class=\"sub-title\"]");
     public static final Target WELCOME_MESSAGE = Target.the("Welcome message ")
-            .locatedBy("image-box-header");
+            .locatedBy("//div[@class=\"image-box-header\"]");
 
 }
