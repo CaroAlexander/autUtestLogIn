@@ -9,6 +9,7 @@
 *.iml
 *.iws
 *.editorconfig
+.idea/workspace.xml
 
 # Gradle
 log/

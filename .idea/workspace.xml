@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="034af79f-55a0-4291-beb9-5aebcbf993fc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serenity.properties" beforeDir="false" afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/AddingYourAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/AddingYourAddress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/DoingTheLast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/DoingTheLast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/TellingAboutYourDevices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/TellingAboutYourDevices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/TellingAboutYourself.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/TellingAboutYourself.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UTestSingLastStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UTestSignLastStep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UTestSinginAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UTestSignUpAddress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UTestSinginDevices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UTestSignUpDevices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UTestSinginYourself.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UTestSignUpYourself.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UtestPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UtestPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/challenge/autUtestLogIn/runners/RunnerTags.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/choucair/challenge/autUtestLogIn/runners/RunnerTags.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/challenge/autUtestLogIn/stepdefinitions/LoginUtestStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/choucair/challenge/autUtestLogIn/stepdefinitions/SignUpUtestStepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/driver/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/driver/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/loginUtest.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/SignUpUtest.feature" afterDir="false" />
-    </list>
+    <list default="true" id="034af79f-55a0-4291-beb9-5aebcbf993fc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +44,31 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="cA111123" />
+                    <option name="lastUsedInstant" value="1699740861" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1699740860" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
