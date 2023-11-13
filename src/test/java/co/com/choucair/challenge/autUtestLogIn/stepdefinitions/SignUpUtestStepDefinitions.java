@@ -18,7 +18,7 @@ public class SignUpUtestStepDefinitions {
     @Before
     public void setStage (){ OnStage.setTheStage(new OnlineCast());}
 
-    @Given("^that (.*) the actor is on the Utest homepage$")
+    @Given("^that Tester (.*) is on the Utest homepage$")
     public void thatAlexWantsToLogInToTheJoinTodaySectionOnTheUtestComPage(String actor) throws Exception {
         OnStage.theActorCalled(actor).wasAbleTo(OpenUp.thePage());
     }
@@ -35,7 +35,6 @@ public class SignUpUtestStepDefinitions {
                         (AddingYourAddress.OnTheStep2(
                                 academyChoucairData.get(0).getStrCity(),
                                 academyChoucairData.get(0).getStrZipCode()
-
                         )),
                         (TellingAboutYourDevices.OnTheStep3()),
                         (DoingTheLast.OnTheLastStep(
