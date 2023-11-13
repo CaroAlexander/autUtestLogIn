@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="034af79f-55a0-4291-beb9-5aebcbf993fc" name="Changes" comment="" />
+    <list default="true" id="034af79f-55a0-4291-beb9-5aebcbf993fc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/AddingYourAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/AddingYourAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/DoingTheLast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/DoingTheLast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/TellingAboutYourself.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/tasks/TellingAboutYourself.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UTestSignLastStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/challenge/autUtestLogIn/userinterface/UTestSignLastStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/challenge/autUtestLogIn/stepdefinitions/SignUpUtestStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/choucair/challenge/autUtestLogIn/stepdefinitions/SignUpUtestStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/SignUpUtest.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/SignUpUtest.feature" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,12 +62,16 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="cA111123" />
-                    <option name="lastUsedInstant" value="1699740861" />
+                    <option name="branchName" value="cA131123" />
+                    <option name="lastUsedInstant" value="1699892192" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1699740860" />
+                    <option name="lastUsedInstant" value="1699891992" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="cA111123" />
+                    <option name="lastUsedInstant" value="1699740861" />
                   </RecentBranch>
                 </list>
               </option>
